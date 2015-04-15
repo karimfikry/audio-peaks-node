@@ -1,0 +1,16 @@
+{
+  "name": "audionode",
+  "version": "1.0.0",
+  "description": "buffering audio and return peaks using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kareemfikry",
+  "license": "MIT",
+  "dependencies": {
+    "web-audio-api": "^0.2.1",
+    "xhr2": "^0.1.1",
+    "xmlhttprequest": "^1.7.0"
+  }
+}
